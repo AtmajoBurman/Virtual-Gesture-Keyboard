@@ -4,6 +4,16 @@ This project implements a **virtual keyboard** system using **Python**, **OpenCV
 
 ---
 
+## 📷 Demo
+
+Here's a small demonstration of the virtual gesture detection project in action.
+
+▶️ **[Virtual Gesture Typing Demo](https://drive.google.com/file/d/1VXpXoZoYqoqv9tEjfZt4rp4hLFTb3ZH_/view?usp=drive_link)**
+
+In this video, I type 'hello' using virtual gestures and then use another gesture to copy and paste the text multiple times. This showcases the system's ability to accurately detect and execute both typing and command-based gestures.
+
+---
+
 ## 📌 Features
 
 - Real-time hand tracking using **MediaPipe Hands**
@@ -12,16 +22,6 @@ This project implements a **virtual keyboard** system using **Python**, **OpenCV
 - Displays the detected key on screen
 - Prints the pressed keys in the terminal
 - Can be integrated with gesture-controlled systems
-
----
-
-## 📷 Demo
-
-Here's a small demonstration of the virtual gesture detection project in action.
-
-▶️ **[Virtual Gesture Typing Demo](https://drive.google.com/file/d/1VXpXoZoYqoqv9tEjfZt4rp4hLFTb3ZH_/view?usp=drive_link)**
-
-In this video, I type 'hello' using virtual gestures and then use another gesture to copy and paste the text multiple times. This showcases the system's ability to accurately detect and execute both typing and command-based gestures.
 
 ---
 
